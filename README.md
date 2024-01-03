@@ -13,11 +13,12 @@
 
 - 📫 How to reach me **samehmelsherbiny@gmail.com**
 
-- this my resume [https://drive.google.com/file/d/1y-4y7-cGpj-J_xGala1NyvJ1oivuE9bh/view?usp=sharing](https://drive.google.com/file/d/1y-4y7-cGpj-J_xGala1NyvJ1oivuE9bh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y-4y7-cGpj-J_xGala1NyvJ1oivuE9bh/view?usp=sharing](https://drive.google.com/file/d/1y-4y7-cGpj-J_xGala1NyvJ1oivuE9bh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@samehmelsherbiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@samehmelsherbiny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sameh-mahmoud-040573228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameh-mahmoud-040573228/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sameh mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameh mahmoud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
